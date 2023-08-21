@@ -1,0 +1,31 @@
+body {
+font-family: 'Roboto', sans-serif;
+width: 30rem;
+}
+
+.Matches {
+    padding-left:3px;
+    padding-top:3px;
+    font-weight:bold;
+}
+
+button {
+    margin: -6px 0px 2px 0;
+    border: solid 2px transparent;
+    border-radius: 0.4em;
+    padding: 0.5em 1em;
+    color: #ffffff;
+    background-color: #9555af;
+    transition-duration: 0.4s;
+}
+
+.category:hover {
+    color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+}
+
+#div1 {
+    padding-left:3px;
+    font-weight:500;
+}
